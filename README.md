@@ -29,7 +29,7 @@
 
    ```bash
    git clone https://github.com/maliikabdi/movie-management-system
-   https://docs.google.com/presentation/d/1u2uwoRaDaUy4wblIrzCndTCmk8NvGfAYBfzZWbEOZmg/edit?usp=sharing
+   https://docs.google.com/presentation/d/1u2uwoRaDaUy4wblIrzCndTCmk8NvGfAYBfzZWbEOZmg/edit?usp=sharing.
    cd movie-management-system.
 
 ## Support and Contact Details
